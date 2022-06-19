@@ -25,7 +25,9 @@ const CartProduct = ({
   const checkRemove = (product) => {
     if (thisProdQtd > 1) {
       setThisProdQtd(thisProdQtd - 1);
-      setCartTotal(cartTotal - product.price);
+      const newTotal = cartTotal - product.price;
+      const newTotalFixed = newTotal.toFixed(2);
+      setCartTotal(newTotalFixed);
     } else if (thisProdQtd === 1) {
       removeProduct(product);
     }

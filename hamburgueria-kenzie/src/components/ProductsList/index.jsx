@@ -2,6 +2,8 @@ import Product from "./Product";
 import "./style.css";
 
 const ProductsList = ({ products, filteredProducts, addToCart }) => {
+
+  
   const showProducts = (product) => {
     return <Product key={product.id} product={product} addToCart={addToCart} />;
   };

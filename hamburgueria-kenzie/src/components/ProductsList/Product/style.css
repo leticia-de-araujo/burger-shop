@@ -13,7 +13,7 @@
 
 .Product-img {
   display: flex;
-  width: 300px;
+  width: 250px;
   height: 165px;
   background-color: #f5f5f5;
   align-items: center;
@@ -22,8 +22,8 @@
 
 img {
   background-color: transparent;
-  width: 160px;
-  height: 160px;
+  width: 140px;
+  height: 140px;
 }
 
 .Product-divInfos {

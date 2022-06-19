@@ -36,8 +36,6 @@ const App = () => {
         values.push(product.price);
       });
 
-      console.log(values);
-
       const total = values.reduce(
         (previousValue, currentValue) => previousValue + currentValue,
         0
