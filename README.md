@@ -23,3 +23,5 @@ Also, this app was developed with mobile-first and responsiveness concepts.
 App link: https://hamburgueria-kenzie-kappa.vercel.app/
 
 Obs: The application is in Portuguese-BR.
+
+<img src="https://j.gifs.com/nRo8Q5.gif" width=550 height=300/>
