@@ -1,6 +1,6 @@
 ## Kenzie Burguer 🍔
 
-This project is a web page for a hamburger shop. 
+This project is a web page for a burger restaurant. 
 
 This application was built in <b>React.js</b>, and the products presented are a result of a GET request from an API provided by Kenzie Academy Brazil.
 
