@@ -20,7 +20,7 @@ Also, this app was developed with mobile-first and responsiveness concepts.
 - React.js
 - API
 
-App link: https://hamburgueria-kenzie-kappa.vercel.app/
+App link: https://hamburgueria-kenzie-leticia-de-araujo.vercel.app
 
 Obs: The application is in Portuguese-BR.
 
