@@ -1,4 +1,4 @@
-## BurgerShop 🍔
+## Burger Shop 🍔
 
 This project is a web page for a burger restaurant. 
 
@@ -18,7 +18,7 @@ Also, this app was developed with mobile-first and responsiveness concepts.
 - CSS
 - JavaScript
 - React.js
-- API
+- RESTful API consumption
 
 App link: https://burguer-shop-pearl.vercel.app/
 
